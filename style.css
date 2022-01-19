@@ -1,0 +1,17 @@
+/*
+Theme Name: Greenpeace Planet 4 Child Theme Croatia
+Theme URI: https://github.com/greenpeace/planet4-child-theme-croatia
+Description: Child theme for the Croatia Planet 4 website
+Author: Greenpeace International
+Author URI: https://github.com/greenpeace
+Template: planet4-master-theme
+Version: 0.2.10
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: light, accessibility-ready
+Text Domain: planet4-child-theme-croatia
+*/
+
+.external_link {
+  display: none;
+}
